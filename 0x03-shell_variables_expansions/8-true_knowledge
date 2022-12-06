@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($STUEKNOWLEDGE+128))
+echo "$(($STUEKNOWLEDGE + 128))"
